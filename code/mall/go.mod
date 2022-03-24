@@ -4,6 +4,7 @@ go 1.18
 
 require (
 	github.com/zeromicro/go-zero v1.3.1
+	golang.org/x/crypto v0.0.0-20210920023735-84f357641f63
 	google.golang.org/grpc v1.44.0
 	google.golang.org/protobuf v1.27.1
 )
@@ -51,7 +52,6 @@ require (
 	go.uber.org/automaxprocs v1.4.0 // indirect
 	go.uber.org/multierr v1.8.0 // indirect
 	go.uber.org/zap v1.21.0 // indirect
-	golang.org/x/crypto v0.0.0-20210920023735-84f357641f63 // indirect
 	golang.org/x/net v0.0.0-20220225172249-27dd8689420f // indirect
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d // indirect
 	golang.org/x/sys v0.0.0-20220227234510-4e6760a101f9 // indirect
